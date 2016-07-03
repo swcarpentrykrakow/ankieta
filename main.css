@@ -1,0 +1,12 @@
+html {margin: 5% 15%; padding-bottom: 50px;}
+
+
+img.centered {display: block; margin: auto; width: 40%;}
+
+.center {text-align: center;}
+
+.justified {text-align: justify;}
+
+p {font-family: Lato; text-rendering: optimizeLegibility;}
+
+h1 {font-family: Lato; font-weight: normal; font-style: normal; text-rendering: optimizeLegibility;}
