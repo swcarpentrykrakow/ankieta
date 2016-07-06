@@ -38,7 +38,6 @@ body {
 
 /* Main marketing message and sign up button */
 .jumbotron {
-  text-align: center;
   border-bottom: 1px solid #e5e5e5;
 }
 .jumbotron .btn {
@@ -52,6 +51,22 @@ body {
 }
 .marketing p + h4 {
   margin-top: 28px;
+}
+
+.jumbotron h1 {
+  padding-bottom: 30px;
+}
+
+.jumbotron .lead {
+  max-width: 730px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jumbotron ul {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
 }
 
 /* Responsive: Portrait tablets and up */
